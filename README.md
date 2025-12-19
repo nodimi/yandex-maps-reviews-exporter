@@ -1,4 +1,4 @@
-# 🗺️ Yandex Maps Reviews Exporter
+# 🗺️ Парсер отзывов из Яндекс Карт (Yandex Maps Reviews Exporter)
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Version](https://img.shields.io/badge/version-1.0-blue)
